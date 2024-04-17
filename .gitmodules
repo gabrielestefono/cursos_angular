@@ -1,0 +1,3 @@
+[submodule "weather_app"]
+	path = weather_app
+	url = https://github.com/gabrielestefono/weather_app_angular.git
